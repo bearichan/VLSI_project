@@ -1,0 +1,388 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_file
+vbutterfly_unit
+Z0 !s110 1511625242
+!i10b 1
+!s100 5SJC`oU^mh<DhX36lN9nE3
+IgRbD071R9RD5lj3eTzKaD0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft
+w1511456958
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1511625242.000000
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vclk_unit
+R0
+!i10b 1
+!s100 EYbiS31gi9Jk_be`lTcY=0
+INRd;YoE^SF]?4aMiN9d]g0
+R1
+R2
+w1511545298
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol_unit
+R0
+!i10b 1
+!s100 VdWKg3Q]C?_FWb^C_f2?>2
+IbG?47zedOZWi=gHAMK`Be1
+R1
+R2
+w1511491234
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v|
+!s101 -O0
+!i113 1
+R5
+vdelay1
+R0
+!i10b 1
+!s100 7z1:?IHniI@OIQ6Hada?z0
+IUmYMJCYQFz3aRS[GnPRC71
+R1
+R2
+w1511623837
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v|
+!s101 -O0
+!i113 1
+R5
+vdelay2
+R0
+!i10b 1
+!s100 za]@EhaiV533CWi?L8Wia3
+IDboc6zWU;G7i[[AIF24QH0
+R1
+R2
+w1511623832
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v|
+!s101 -O0
+!i113 1
+R5
+vdelay4
+R0
+!i10b 1
+!s100 _0aAjibkmDR`XSM^OO`^>0
+InPak_UHMPmJDb0<4YSin[2
+R1
+R2
+w1511623827
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v|
+!s101 -O0
+!i113 1
+R5
+vdelay8
+R0
+!i10b 1
+!s100 =_@LkF[B^_HNm1PKF=XdS1
+I8El]Sl6nkRi8k[MUQ_i;F3
+R1
+R2
+w1511623822
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v|
+!s101 -O0
+!i113 1
+R5
+vfp_adder_comb
+R0
+!i10b 1
+!s100 `]IN?mHN1m:kzPQJJ4?hZ2
+IKoCDIO_<i8z>P43`jc[f00
+R1
+R2
+w1510104295
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v|
+!s101 -O0
+!i113 1
+R5
+vfp_multiplier_comb
+R0
+!i10b 1
+!s100 WNGSbU4[oA;lh8^CYeF;?0
+I_Mf;fjXO4ZaY^aH`TJf]A3
+R1
+R2
+w1511585139
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v|
+!s101 -O0
+!i113 1
+R5
+vinput_unit
+R0
+!i10b 1
+!s100 P89mJ@Ed18CFJXN?4Dgc73
+IQbboVd_lTkXReC[^C?j0B1
+R1
+R2
+w1511546636
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v|
+!s101 -O0
+!i113 1
+R5
+voutput_unit
+R0
+!i10b 1
+!s100 L5^Fm4a8E6i?>G5mcdNlT1
+IB1X6FoM<De^6DcKj2?jm52
+R1
+R2
+w1511623758
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v|
+!s101 -O0
+!i113 1
+R5
+vswitch1
+R0
+!i10b 1
+!s100 A4LFlzQ<fi0AHe>A=kzke3
+IDDZ]h5OZ>]]PAO2z;k8Q@2
+R1
+R2
+w1511469283
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v|
+!s101 -O0
+!i113 1
+R5
+vswitch2
+R0
+!i10b 1
+!s100 X0`Y?`:Gn>n:C=QgzO@bm0
+Ij0@:4lm=mNC2P12CYS<L53
+R1
+R2
+w1511469279
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v|
+!s101 -O0
+!i113 1
+R5
+vswitch4
+R0
+!i10b 1
+!s100 N6mk9n>[RG4AVRGie2Qh;3
+I_M>0W>O?OAfTSh_XUA5<[2
+R1
+R2
+w1511469275
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v|
+!s101 -O0
+!i113 1
+R5
+vswitch8
+Z6 !s110 1511625243
+!i10b 1
+!s100 oRJT9@SORG_1YgGBPb^mA3
+Iz=;RJ9@KSYLWnVj7<e[221
+R1
+R2
+w1511469270
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1511625243.000000
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v|
+!s101 -O0
+!i113 1
+R5
+vtb_fft
+R6
+!i10b 1
+!s100 DCg@>]VZmS0;>?GIk:ofA1
+I7`GgcQfcb@^aU2V<o_joZ3
+R1
+R2
+w1511555870
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v|
+!s101 -O0
+!i113 1
+R5
+vtop_fft
+R6
+!i10b 1
+!s100 5VMNZ?n9A6J>2?b[b7KUo3
+IKFP1`GBjQa61UfUHHFeZZ1
+R1
+R2
+w1511552953
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v|
+!s101 -O0
+!i113 1
+R5
+vtwiddle_factor_gen
+R6
+!i10b 1
+!s100 _NLV3Az6dkYdNzBbHN0SS2
+ILF<Sn7_TLe4=o<k=YzJLa2
+R1
+R2
+w1511548522
+8D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v
+FD:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v|
+!s101 -O0
+!i113 1
+R5

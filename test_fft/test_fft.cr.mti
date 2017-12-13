@@ -1,0 +1,127 @@
+{D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module delay8
+
+Top level modules:
+	delay8
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/output_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module output_unit
+
+Top level modules:
+	output_unit
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/butterfly_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module butterfly_unit
+
+Top level modules:
+	butterfly_unit
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module switch1
+
+Top level modules:
+	switch1
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/fp_multiplier_comb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fp_multiplier_comb
+
+Top level modules:
+	fp_multiplier_comb
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/twiddle_factor_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module twiddle_factor_gen
+
+Top level modules:
+	twiddle_factor_gen
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module switch2
+
+Top level modules:
+	switch2
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/float_adder_comb.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fp_adder_comb
+
+Top level modules:
+	fp_adder_comb
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module switch4
+
+Top level modules:
+	switch4
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/input_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module input_unit
+
+Top level modules:
+	input_unit
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/control_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module delay1
+
+Top level modules:
+	delay1
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay2.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module delay2
+
+Top level modules:
+	delay2
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/clk_unit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module clk_unit
+
+Top level modules:
+	clk_unit
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/top_fft.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top_fft
+
+Top level modules:
+	top_fft
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/switch8.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module switch8
+
+Top level modules:
+	switch8
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/delay4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module delay4
+
+Top level modules:
+	delay4
+
+} {} {}} {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v} {1 {vlog -work work -stats=none {D:/DesktopIcons/Workspace/2017Fall/VLSI I/project/team_version/test_fft/tb_fft.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_fft
+
+Top level modules:
+	tb_fft
+
+} {} {}}
